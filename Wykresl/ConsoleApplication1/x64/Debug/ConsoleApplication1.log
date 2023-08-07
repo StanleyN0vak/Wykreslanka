@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Mateusz\Documents\Egzamin WDP\Wykreślanka\Wykresl\ConsoleApplication1\ConsoleApplication1.cpp(47,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Users\Mateusz\Documents\Egzamin WDP\Wykreślanka\Wykresl\x64\Debug\ConsoleApplication1.exe
